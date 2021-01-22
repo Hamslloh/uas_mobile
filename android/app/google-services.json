@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958980328478",
+    "project_id": "properti-a70b1",
+    "storage_bucket": "properti-a70b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958980328478:android:ffe303b80e5692e3bbb20f",
+        "android_client_info": {
+          "package_name": "com.example.reborn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958980328478-1l6736rovj45n99o9t53epv83b2u34t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCQl2_P8vP2kgVkabzRQzDstyAHqgbEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958980328478-1l6736rovj45n99o9t53epv83b2u34t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
